@@ -9,7 +9,7 @@ B
 --------
 `亮不亮`
 
-[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")
+[我的博客](https://github.com/luyi10year/github-blog "悬停显示")
  * ES
      * JS
          * JS1
